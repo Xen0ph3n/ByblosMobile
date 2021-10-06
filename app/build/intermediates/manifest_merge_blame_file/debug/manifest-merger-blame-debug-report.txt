@@ -1,0 +1,53 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.byblosmobile"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="30"
+8-->C:\Users\Connor\Downloads\seg2105f21-project-project_gr-43-main\seg2105f21-project-project_gr-43-main\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\Connor\Downloads\seg2105f21-project-project_gr-43-main\seg2105f21-project-project_gr-43-main\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Connor\Downloads\seg2105f21-project-project_gr-43-main\seg2105f21-project-project_gr-43-main\app\src\main\AndroidManifest.xml:5:3-22:17
+12        android:allowBackup="true"
+12-->C:\Users\Connor\Downloads\seg2105f21-project-project_gr-43-main\seg2105f21-project-project_gr-43-main\app\src\main\AndroidManifest.xml:6:11-37
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] C:\Users\Connor\.gradle\caches\transforms-2\files-2.1\e4e60fa01183f8bb008117a464bbdf63\core-1.5.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\Users\Connor\Downloads\seg2105f21-project-project_gr-43-main\seg2105f21-project-project_gr-43-main\app\src\main\AndroidManifest.xml:7:11-45
+17        android:label="@string/app_name"
+17-->C:\Users\Connor\Downloads\seg2105f21-project-project_gr-43-main\seg2105f21-project-project_gr-43-main\app\src\main\AndroidManifest.xml:8:11-43
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->C:\Users\Connor\Downloads\seg2105f21-project-project_gr-43-main\seg2105f21-project-project_gr-43-main\app\src\main\AndroidManifest.xml:9:11-56
+19        android:supportsRtl="true"
+19-->C:\Users\Connor\Downloads\seg2105f21-project-project_gr-43-main\seg2105f21-project-project_gr-43-main\app\src\main\AndroidManifest.xml:10:11-37
+20        android:testOnly="true"
+21        android:theme="@style/Theme.ByblosMobile" >
+21-->C:\Users\Connor\Downloads\seg2105f21-project-project_gr-43-main\seg2105f21-project-project_gr-43-main\app\src\main\AndroidManifest.xml:11:11-52
+22        <activity
+22-->C:\Users\Connor\Downloads\seg2105f21-project-project_gr-43-main\seg2105f21-project-project_gr-43-main\app\src\main\AndroidManifest.xml:12:5-21:16
+23            android:name="com.example.byblosmobile.ui.login.LoginActivity"
+23-->C:\Users\Connor\Downloads\seg2105f21-project-project_gr-43-main\seg2105f21-project-project_gr-43-main\app\src\main\AndroidManifest.xml:13:13-51
+24            android:exported="true"
+24-->C:\Users\Connor\Downloads\seg2105f21-project-project_gr-43-main\seg2105f21-project-project_gr-43-main\app\src\main\AndroidManifest.xml:14:13-36
+25            android:label="@string/app_name" >
+25-->C:\Users\Connor\Downloads\seg2105f21-project-project_gr-43-main\seg2105f21-project-project_gr-43-main\app\src\main\AndroidManifest.xml:15:13-45
+26            <intent-filter>
+26-->C:\Users\Connor\Downloads\seg2105f21-project-project_gr-43-main\seg2105f21-project-project_gr-43-main\app\src\main\AndroidManifest.xml:16:7-20:23
+27                <action android:name="android.intent.action.MAIN" />
+27-->C:\Users\Connor\Downloads\seg2105f21-project-project_gr-43-main\seg2105f21-project-project_gr-43-main\app\src\main\AndroidManifest.xml:17:9-60
+27-->C:\Users\Connor\Downloads\seg2105f21-project-project_gr-43-main\seg2105f21-project-project_gr-43-main\app\src\main\AndroidManifest.xml:17:17-58
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->C:\Users\Connor\Downloads\seg2105f21-project-project_gr-43-main\seg2105f21-project-project_gr-43-main\app\src\main\AndroidManifest.xml:19:9-68
+29-->C:\Users\Connor\Downloads\seg2105f21-project-project_gr-43-main\seg2105f21-project-project_gr-43-main\app\src\main\AndroidManifest.xml:19:19-66
+30            </intent-filter>
+31        </activity>
+32    </application>
+33
+34</manifest>

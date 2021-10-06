@@ -1,0 +1,19 @@
+#Wed Oct 06 14:25:08 EDT 2021
+path.4=5/classes.dex
+path.3=1/classes.dex
+path.2=11/classes.dex
+path.1=0/classes.dex
+path.5=6/classes.dex
+path.0=classes.dex
+base.4=C\:\\Users\\Connor\\Downloads\\seg2105f21-project-project_gr-43-main\\seg2105f21-project-project_gr-43-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.3=C\:\\Users\\Connor\\Downloads\\seg2105f21-project-project_gr-43-main\\seg2105f21-project-project_gr-43-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.2=C\:\\Users\\Connor\\Downloads\\seg2105f21-project-project_gr-43-main\\seg2105f21-project-project_gr-43-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.1=C\:\\Users\\Connor\\Downloads\\seg2105f21-project-project_gr-43-main\\seg2105f21-project-project_gr-43-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=C\:\\Users\\Connor\\Downloads\\seg2105f21-project-project_gr-43-main\\seg2105f21-project-project_gr-43-main\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+base.5=C\:\\Users\\Connor\\Downloads\\seg2105f21-project-project_gr-43-main\\seg2105f21-project-project_gr-43-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
